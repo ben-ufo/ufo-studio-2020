@@ -127,8 +127,8 @@ projhexwrap {
 .bond_content {
   margin: auto;
   width: 100%;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
   padding-top: 7%;
   padding-bottom: 10%;
   background-color: #f6f6f6; }
@@ -150,37 +150,39 @@ projhexwrap {
   background-color: #1e1d1c; }
 
 .re-issued_content title {
-  color: #f6f6f6; }
+  color: #cacaca; }
 
 .re-issued_content tags {
-  color: #f6f6f6; }
+  color: #cacaca; }
 
 .supercans_content {
   margin: auto;
   width: 100%;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-top: 7%;
   padding-bottom: 10%;
   background-color: #000000; }
 
 .supercans_content title {
-  color: #f6f6f6;
-  padding-left: 8%; }
+  color: #cacaca;
+  padding-left: 10%; }
 
 .supercans_content tags {
-  color: #f6f6f6;
-  padding-right: 8%; }
+  color: #cacaca;
+  padding-right: 10%; }
 
 /* glamour */
 .glamour_content {
   margin: auto;
   width: 100%;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding: 3%;
   padding-top: 7%;
   padding-bottom: 10%;
   background-color: #f2cfd5; }
+
+.glamour_content title {
+  padding-left: 7%; }
+
+.glamour_content tags {
+  padding-right: 7%; }
 
 .bfi_content {
   margin: auto;
@@ -244,10 +246,10 @@ projhexwrap {
   font: #f6f6f6; }
 
 .lad_content title {
-  color: #f6f6f6; }
+  color: #cacaca; }
 
 .lad_content tags {
-  color: #f6f6f6; }
+  color: #cacaca; }
 
 .empirical_content {
   margin: auto;
@@ -259,10 +261,10 @@ projhexwrap {
   background-color: #171717; }
 
 .empirical_content title {
-  color: #f6f6f6; }
+  color: #cacaca; }
 
 .empirical_content tags {
-  color: #f6f6f6; }
+  color: #cacaca; }
 
 .hostedby_content title {
   color: #a7a7a7; }

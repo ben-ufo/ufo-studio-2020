@@ -1,31 +1,19 @@
 a:link {
-    text-decoration: none;
-    color: #444444;
-
-}
+  text-decoration: none;
+  color: #444444; }
 
 a:visited {
-    text-decoration: none;
-    color: #444444;
-}
+  text-decoration: none;
+  color: #444444; }
 
 a:hover {
-	text-decoration: none;
-  color: #444444;
-
-
-}
+  text-decoration: none;
+  color: #444444; }
 
 a:active {
-    text-decoration: none;
-}
-
-
+  text-decoration: none; }
 
 /* index */
-
-
-
 /*
 a title
 {
@@ -72,7 +60,6 @@ a img:hover
 
 }
 */
-
 /*
 .asos_content a:hover{
 	background-color: aqua;
