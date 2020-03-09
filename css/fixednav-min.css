@@ -11,7 +11,7 @@ logo_text {
   letter-spacing: 0.00em; }
 
 about_contact_shop {
-  font-family: 'Relative-Book', sans-serif;
+  font-family: 'Relative-Book';
   z-index: 100;
   position: fixed;
   float: right;
