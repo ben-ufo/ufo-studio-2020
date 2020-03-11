@@ -90,8 +90,8 @@ projtext {
   display: inline-block;
   margin: auto;
   width: 100%;
-  font-family: 'Relative-Book' sans-serif;
-  font-size: 1.7em;
+  font-family: 'Relative-Book';
+  font-size: 1.2em;
   color: #474747;
   letter-spacing: 0.09em;
   text-transform: none; }
@@ -155,7 +155,8 @@ projtext {
     bottom: 20px;
     position: absolute; }
   projtext {
-    font-size: 1.70em; }
+    font-size: 1.0em;
+    font-family: 'Relative-Book'; }
   .project_arrow {
     width: 10px;
     padding-top: 0px; } }
