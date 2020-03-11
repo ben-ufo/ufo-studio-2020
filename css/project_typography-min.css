@@ -1,4 +1,19 @@
 /* Text Styles */
+a:link {
+  text-decoration: none;
+  color: #444444; }
+
+a:visited {
+  text-decoration: none;
+  color: #444444; }
+
+a:hover {
+  text-decoration: none;
+  color: #444444; }
+
+a:active {
+  text-decoration: none; }
+
 project_title {
   display: block;
   text-align: left;

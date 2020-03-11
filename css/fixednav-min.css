@@ -91,7 +91,7 @@ projtext {
   margin: auto;
   width: 100%;
   font-family: 'Relative-Book' sans-serif;
-  font-size: 0.80em;
+  font-size: 1.7em;
   color: #474747;
   letter-spacing: 0.09em;
   text-transform: none; }
@@ -127,9 +127,9 @@ projtext {
     position: fixed;
     float: right;
     right: 5%;
-    top: 25px;
-    font-family: 'Relative-Book' sans-serif;
-    font-size: 0.70em;
+    top: 15px;
+    font-family: 'Relative-Book';
+    font-size: 2.2em;
     color: #444444;
     letter-spacing: 0.03em; }
   .logo {
@@ -155,7 +155,7 @@ projtext {
     bottom: 20px;
     position: absolute; }
   projtext {
-    font-size: 0.70em; }
+    font-size: 1.70em; }
   .project_arrow {
     width: 10px;
     padding-top: 0px; } }
