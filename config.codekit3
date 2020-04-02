@@ -3659,6 +3659,14 @@
 		"oAP": "/email-sig/lenis.html",
 		"oF": 0
 		},
+	"/email-sig/newcan.gif": {
+		"ft": 4194304,
+		"iS": 39526,
+		"oA": 0,
+		"oAP": "/email-sig/newcan.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"/email-sig/oblb.gif": {
 		"ft": 4194304,
 		"iS": 3777,
