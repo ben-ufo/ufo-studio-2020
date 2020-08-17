@@ -16,32 +16,34 @@ html, html a {
 	padding-bottom: 10px;
 }
 
+.big_point {
+font-family: 'Relative-Book';
+font-size: 1.7rem;
+line-height: 2.0rem;
+color: #333333;
+}
+
+
 .about__text {
 background-color: #c5c5c5;
 border-top: 100px solid #eeeeee;
 border-bottom: 0px;
 padding-left: 3rem;
 padding-right: 3rem;
-font-family: 'Relative-Book'; sans-serif;
+font-family: 'Relative-Book';
 font-size: 1.3em;
 line-height: 1.6rem;
 color: #333333;
 }
 
 .small_point {
-font-family: 'Relative-Book'; sans-serif;
+font-family: 'Relative-Book';
 font-size: 1.0rem;
 line-height: 1.6rem;
 padding-left: 50px;
 color: #333333;
 }
 
-.big_point {
-font-family: 'Relative-Book'; sans-serif;
-font-size: 1.7rem;
-line-height: 2.0rem;
-color: #333333;
-}
 
 
 
@@ -62,7 +64,7 @@ border-top: 100px solid #eeeeee;
 border-bottom: 0px;
 padding-left: 3rem;
 padding-right: 3rem;
-font-family: 'Relative-Book'; sans-serif;
+font-family: 'Relative-Book';
 font-size: 1.0em;
 line-height: 1.2rem;
 }
